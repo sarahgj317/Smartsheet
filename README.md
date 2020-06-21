@@ -11,5 +11,3 @@ In order to run this code, please replace
 3. download_path : Change download path variable to a folder you want. The advantage of using
 os.path.join is that you dont need to change the slashes when running this code in windows
 versus Mac
-# Smartsheet
- Export Smartsheet sheet contents to an Excel File
